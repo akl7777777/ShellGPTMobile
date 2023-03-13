@@ -7,6 +7,8 @@
 >安卓版下载地址:
 [ChatGPT-AKL.apk](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases/download/v0.0.1/ChatGPT-AKL.apk)
 
+>桌面版请去[ChatGPT桌面客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
+
 使用效果图:
 
 ![bbc9188b-c7a9-4b7f-a114-0e7d23f18209](https://user-images.githubusercontent.com/84266551/224617299-2e22454f-4f66-4dcc-8f25-20b5468e68de.jpeg)
