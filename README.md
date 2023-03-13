@@ -4,4 +4,5 @@
 **免费的ChatGPT手机客户端，无需密钥，无需登录**
 
 
-安卓版下载地址：
+安卓版下载地址:
+[ChatGPT-AKL.apk](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases/download/v0.0.1/ChatGPT-AKL.apk)
