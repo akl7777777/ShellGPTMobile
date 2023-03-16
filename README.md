@@ -3,6 +3,10 @@
 
 **免费的ChatGPT手机客户端，无需密钥，无需登录**
 
+bug fixes:
+
+已修复暗黑模式下的聊天框颜色问题
+
 
 >安卓版下载地址:
 [ChatGPT_AKL_v1.0.6.apk](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases/download/v1.0.6/ChatGPT_akl_v1.0.6.apk)
