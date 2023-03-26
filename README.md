@@ -9,7 +9,7 @@ bug fixes:
 
 
 >安卓版下载地址:
-[ChatGPT_AKL_v1.1.0.apk](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases/download/v1.1.0/ChatGPT_akl_v1.1.0.apk)
+[ChatGPT_AKL_v1.1.1.apk](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases/download/v1.1.1/ChatGPT_akl_v1.1.1.apk)
 
 >IOS版下载地址:
 [ChatGPTMobile.ipa](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases/download/v1.0.6/ChatGPT_akl.ipa)(IOS需要自行签名,不会的看[教程](https://www.i4.cn/news_detail_38195.html))
