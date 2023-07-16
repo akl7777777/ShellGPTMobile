@@ -9,13 +9,13 @@ bug fixes:
 
 
 >安卓版下载地址:
-[ChatGPTMobile.apk](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases)
+[ChatGPTMobile.apk](https://github.com/akl7777777/ShellGPTMobile/releases)
 
 >IOS版下载地址:
-[ChatGPTMobile.ipa](https://github.com/akl7777777/free-chatgpt-client-mobile-pub/releases)(IOS需要自行签名,不会的看[图文教程](https://www.i4.cn/news_detail_38195.html)或者[视频教程](https://www.ixigua.com/7241963754273899008))
+[ChatGPTMobile.ipa](https://github.com/akl7777777/ShellGPTMobile/releases)(IOS需要自行签名,不会的看[图文教程](https://www.i4.cn/news_detail_38195.html)或者[视频教程](https://www.ixigua.com/7241963754273899008))
 
 
->桌面版请去[ChatGPT桌面客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
+>桌面版请去[ChatGPT桌面客户端](https://github.com/akl7777777/ShellGPT)
 
 使用效果图:
 
